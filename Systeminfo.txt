@@ -1,0 +1,6 @@
+Original Install Date:     16.12.2016, 22:42:59
+System Boot Time:          23.05.2018, 12:59:38
+  94719999 KB total disk space.
+   1975336 KB available on disk.
+    493834 allocation units available on disk.
+

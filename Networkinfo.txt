@@ -1,0 +1,170 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-VL
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : Home
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Home
+   Description . . . . . . . . . . . : Realtek PCIe FE Family Controller
+   Physical Address. . . . . . . . . : 28-F1-0E-2B-FD-62
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-06
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::144e:d24a:e078:f8d9%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 369754151
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1F-E6-0A-12-28-F1-0E-2B-FD-62
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VirtualBox Host-Only Network #2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-09
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f938:42a1:e4ec:d6c9%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.124.2(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 503971879
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1F-E6-0A-12-28-F1-0E-2B-FD-62
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter П?дключення через локальну мережу* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : E4-02-9B-13-4B-4D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : Home
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 3160
+   Physical Address. . . . . . . . . : E4-02-9B-13-4B-4C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::64b8:d366:9d5a:4c65%8(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.2(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 23 травня 2018 р. 22:34:42
+   Lease Expires . . . . . . . . . . : 24 травня 2018 р. 22:34:42
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 48497307
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1F-E6-0A-12-28-F1-0E-2B-FD-62
+   DNS Servers . . . . . . . . . . . : 192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter П?дключення через мережу Bluetooth:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : E4-02-9B-13-4B-50
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter П?дключення через локальну мережу* 4:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{23DB317F-44D5-4B76-94CA-9BC8A974AA36}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{6D89FC49-16A7-478F-B8BB-80543D7814E8}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.Home:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : Home
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #4
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+===========================================================================
+Interface List
+ 16...28 f1 0e 2b fd 62 ......Realtek PCIe FE Family Controller
+  6...0a 00 27 00 00 06 ......VirtualBox Host-Only Ethernet Adapter
+  9...0a 00 27 00 00 09 ......VirtualBox Host-Only Ethernet Adapter #2
+ 11...e4 02 9b 13 4b 4d ......Microsoft Wi-Fi Direct Virtual Adapter
+  8...e4 02 9b 13 4b 4c ......Intel(R) Dual Band Wireless-AC 3160
+ 20...e4 02 9b 13 4b 50 ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+  4...00 00 00 00 00 00 00 e0 Microsoft Teredo Tunneling Adapter
+  7...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter
+ 19...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #2
+ 22...00 00 00 00 00 00 00 e0 Microsoft ISATAP Adapter #4
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0      192.168.1.1      192.168.1.2     55
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link       192.168.1.2    311
+      192.168.1.2  255.255.255.255         On-link       192.168.1.2    311
+    192.168.1.255  255.255.255.255         On-link       192.168.1.2    311
+     192.168.56.0    255.255.255.0         On-link      192.168.56.1    281
+     192.168.56.1  255.255.255.255         On-link      192.168.56.1    281
+   192.168.56.255  255.255.255.255         On-link      192.168.56.1    281
+    192.168.124.0    255.255.255.0         On-link     192.168.124.2    281
+    192.168.124.2  255.255.255.255         On-link     192.168.124.2    281
+  192.168.124.255  255.255.255.255         On-link     192.168.124.2    281
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link     192.168.124.2    281
+        224.0.0.0        240.0.0.0         On-link       192.168.1.2    311
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      192.168.56.1    281
+  255.255.255.255  255.255.255.255         On-link     192.168.124.2    281
+  255.255.255.255  255.255.255.255         On-link       192.168.1.2    311
+===========================================================================
+Persistent Routes:
+  None

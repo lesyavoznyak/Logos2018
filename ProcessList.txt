@@ -1,0 +1,35 @@
+
+Image Name                     PID Services                                    
+========================= ======== ============================================
+svchost.exe                    876 BrokerInfrastructure, DcomLaunch, LSM,      
+                                   PlugPlay, Power, SystemEventsBroker         
+svchost.exe                    940 RpcEptMapper, RpcSs                         
+svchost.exe                    592 Dhcp, EventLog, HomeGroupProvider, lmhosts, 
+                                   TimeBrokerSvc, wscsvc                       
+svchost.exe                    544 bthserv, CDPSvc, EventSystem, fdPHost,      
+                                   FontCache, netprofm, nsi, WdiServiceHost,   
+                                   WinHttpAutoProxySvc                         
+svchost.exe                   1060 AudioEndpointBuilder,                       
+                                   DeviceAssociationService, hidserv,          
+                                   NcbService, PcaSvc, SysMain, TrkWks,        
+                                   WdiSystemHost, wudfsvc                      
+svchost.exe                   1068 Appinfo, BITS, Browser, iphlpsvc,           
+                                   LanmanServer, lfsvc, ProfSvc, Schedule,     
+                                   SENS, ShellHWDetection, Themes,             
+                                   UserManager, Winmgmt, wlidsvc, WpnService,  
+                                   wuauserv                                    
+svchost.exe                   1236 BFE, CoreMessagingRegistrar, DPS, MpsSvc,   
+                                   NcdAutoSetup                                
+svchost.exe                   1588 CryptSvc, Dnscache, LanmanWorkstation,      
+                                   NlaSvc                                      
+svchost.exe                   1736 Audiosrv                                    
+svchost.exe                   1836 Wcmsvc                                      
+svchost.exe                   1968 WlanSvc                                     
+svchost.exe                   2628 DiagTrack                                   
+svchost.exe                   2944 StateRepository, tiledatamodelsvc           
+svchost.exe                   3664 FDResPub, SSDPSRV                           
+svchost.exe                   4156 CDPUserSvc_39241, OneSyncSvc_39241,         
+                                   PimIndexMaintenanceSvc_39241,               
+                                   UnistoreSvc_39241, UserDataSvc_39241        
+svchost.exe                   9224 CDPUserSvc_a2a97e, OneSyncSvc_a2a97e        
+svchost.exe                  10128 stisvc                                      
